@@ -1,6 +1,6 @@
 # Yolov7_darknet_opencv_dnn
 
-![cover_photo](result/bus_result.jpg)
+![cover_photo](result/demo/bus_result.jpg)
 
 ## Description
 
