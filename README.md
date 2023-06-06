@@ -1,6 +1,8 @@
 # Yolov7_darknet_opencv_dnn
 
-![cover_photo](result/demo/bus_result.jpg)
+<div align="center">
+  <img width="80%" src="result/demo/bus_result.jpg">
+</div>
 
 ## Description
 
