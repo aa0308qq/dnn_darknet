@@ -75,7 +75,7 @@ class Yolov7():
 
 if __name__ == "__main__":
     yolov7_model=Yolov7('yolov7-tiny.cfg','yolov7-tiny.weights','coco.names')
-    image=cv2.imread('/home/joe/workspace/Joe/yolov7_opencv_dnn/dnn_darknet/data/dog.jpg')
+    image=cv2.imread('/home/joe/workspace/Joe/yolov7_opencv_dnn/dnn_darknet/data/bus.jpg')
     start_inference=time.time()
     class_names,confidences,boxes=yolov7_model.detect(image)
     print(f'inference_time:{time.time()-start_inference}')
