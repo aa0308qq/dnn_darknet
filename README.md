@@ -48,16 +48,9 @@ cv2.waitKey(0)
 
 ## Reference
 
-Yolov7:https://github.com/WongKinYiu/yolov7
-Yolov5:https://github.com/ultralytics/yolov5/tree/master
-darknet:https://github.com/AlexeyAB/darknet
-
-
-## Authors
-
-Contributors names and contact info
-
-[Joe_Wu](https://github.com/aa0308qq)
+* Yolov7:https://github.com/WongKinYiu/yolov7
+* Yolov5:https://github.com/ultralytics/yolov5/tree/master
+* darknet:https://github.com/AlexeyAB/darknet
 
 ## License
 
