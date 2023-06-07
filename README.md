@@ -14,6 +14,11 @@ paper:https://arxiv.org/abs/2207.02696
 
 model:https://github.com/AlexeyAB/darknet/issues/8595
 
+| Darknet | Opencv_dnn |
+| ------------- |:-------------:|
+|  <div align="center"><img width="80%" src="result/demo/darknet_predictions.jpg"></div>     |   <div align="center"> <img width="80%" src="result/demo/opencv_dnn_predictions.jpg"></div> |
+
+
 ## Getting Started
 
 ### Environment
