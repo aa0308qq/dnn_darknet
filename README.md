@@ -52,6 +52,3 @@ cv2.waitKey(0)
 * Yolov5:https://github.com/ultralytics/yolov5/tree/master
 * darknet:https://github.com/AlexeyAB/darknet
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
